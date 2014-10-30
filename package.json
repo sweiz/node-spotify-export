@@ -19,6 +19,10 @@
     "playlist",
     "xspf"
   ],
-  "author": "@sweiz",
+  "repository" :
+    { "type" : "git"
+    , "url" : "git@github.com:sweiz/node-spotify-export.git"
+  },
+  "author": "github.com/sweiz",
   "license": "MIT"
 }
