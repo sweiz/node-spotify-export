@@ -3,7 +3,8 @@ node-spotify-export
 
 Description
 -----------
-Let's convert a Spotify playlist into another format! (currently only [XSPF](http://www.xspf.org/xspf-v1.html#rfc.section.4.1.1.2.2 for use with [Clementine](https://www.clementine-player.org/))
+Let's convert a Spotify playlist into another format! (currently only [XSPF](http://www.xspf.org/xspf-v1.html#rfc.section.4.1.1.2.2) for use with [Clementine](https://www.clementine-player.org/))
+
 Inspired by (and blatant rip-off off) ruby-powered [https://github.com/jlund/spotify-export](https://github.com/jlund/spotify-export)
 
 
@@ -29,15 +30,11 @@ API
 `node index.js {your-filename} {output-template}`
 
 
-Requirements
+Packages
 ------------
-* [Ruby](http://www.ruby-lang.org/en/) 1.9.3 or 2.0.0
-* [Bundler](http://gembundler.com/)
-* [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
-* [RSpec](http://rspec.info/)
-* [Ruby/ProgressBar](https://github.com/jfelchner/ruby-progressbar)
-* [SQLite3](https://github.com/luislavena/sqlite3-ruby) and a working [SQLite](http://www.sqlite.org/) binary
-
+* [Handlebars](https://github.com/wycats/handlebars.js)
+* [Progress](https://github.com/visionmedia/node-progress)
+* [Request](https://github.com/request/request)
 
 Setup
 -----
