@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <trackList>
+    {{#each tracks}}
+      <track>
+        <location>{{uri}}</location>
+        <title>{{name}}</title>
+        <creator>{{artists.0.name}}</creator>
+        <album>{{album.name}}</album>
+        <duration>{{duration_ms}}</duration>
+        <image>{{album.images.0.url}}</image>
+      </track>
+    {{/each}}
+  </trackList>
+</playlist>
