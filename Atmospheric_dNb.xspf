@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <trackList>
+      <track>
+        <location>spotify:track:0xLmLMC5phGgyrq2c5bAfc</location>
+        <title>Low Pressure Zone</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>214160</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:6JruGF8KKmQgqoO0oRb8pa</location>
+        <title>Embryo</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>440373</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:4BBIAFEy7P1A4jEWwvsMcb</location>
+        <title>High Strung</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>250973</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:1RAOWukTdD81ZnTLvXdjhC</location>
+        <title>Dulcet</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>344240</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:5SY4GBOY8vfmaQmsCmhBqO</location>
+        <title>Lucid Dream</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>279186</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:4wuqqKXIbFBB8MX0EYpj96</location>
+        <title>Birth Interlude</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>226146</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:4OjS3X9SEFfgQl3VPnDRZy</location>
+        <title>Talisman</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>341320</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:3K9wDsGR6146oyF5I8DyOJ</location>
+        <title>Nexus</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>193053</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:4JmsPodiLe0YeKZg3bUMQ9</location>
+        <title>Sempiternal</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>279493</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:6GmbuBLzwti7t6F1sH9Qrh</location>
+        <title>Serendipity Dub</title>
+        <creator>Clubroot</creator>
+        <album>Clubroot</album>
+        <duration>307200</duration>
+        <image>https://i.scdn.co/image/29b1280c8ab351ec54e79e8d1ef9606e7efc2e42</image>
+      </track>
+      <track>
+        <location>spotify:track:7dyHSnBGLk7vJqMGgejk6d</location>
+        <title>&#x27;Ennio&#x27;s Eden&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>299449</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:3j8Vm5qi3QS3yu7Ml9X05W</location>
+        <title>&#x27;Left-Hand Path&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>341542</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:5hJPg3Q873ag2AbczXrEUC</location>
+        <title>&#x27;Summons&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>359951</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:27UtrNImEqDt0nagIMDeJD</location>
+        <title>&#x27;Lurking In The Shadows&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>341654</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:4k7uhioxK9uH8grjxUnrj9</location>
+        <title>&#x27;Demon Drum&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>279059</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:1jIRuOXQEnNnBe7BkRjPv6</location>
+        <title>&#x27;Murmur Interlude&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>180034</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:3mAai04KgPUPCqRJmJkt3P</location>
+        <title>&#x27;Garrison&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>265760</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:3iZaENWBwO9cRKrSVXyK3F</location>
+        <title>&#x27;Faith In Her&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>275263</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:6Kf6pfCnT8b3mYGxuPxSh7</location>
+        <title>&#x27;Tempt Fate&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>286004</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:2F5dica87hBNFCE5jWVx5S</location>
+        <title>&#x27;Celestial&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>348559</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:2QSSWourlDelRf7yoKUHyd</location>
+        <title>&#x27;Inviolable&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>281254</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:0teqZpWOygg6zbfkoei11U</location>
+        <title>&#x27;My Kingdom&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>255084</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:1Gzf4plQ3Zfhf1AqmsD9I8</location>
+        <title>&#x27;Restraint&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>III - MMXII</album>
+        <duration>351494</duration>
+        <image>https://i.scdn.co/image/3dbac364d5462237454f9fef28ef8127eda6585b</image>
+      </track>
+      <track>
+        <location>spotify:track:6KrayEkqbNBypr3nWYBry2</location>
+        <title>&#x27;Orbiting&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>303400</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:2QRHhcVZTaQ5VL129352Pt</location>
+        <title>&#x27;Waterways&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>302600</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:2fjOwovOnEb6kbwcR19iQk</location>
+        <title>&#x27;Dry Cured&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>321440</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:5ZWWxZES5ulAlm4RtXRlz2</location>
+        <title>&#x27;Sjambok&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>107226</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:37tWLZxQPBjTu8SHPwPLbB</location>
+        <title>&#x27;Toe to Toe&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>280080</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:6U9s2wzlw2BzSB4AVWTOMA</location>
+        <title>&#x27;Whistles &amp; Horns&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>281893</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:1NdBFewdVcrT6W9nbCGYN0</location>
+        <title>&#x27;Running on Empty&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>301786</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:7ajOV29u0JrNrgB7teTGUs</location>
+        <title>&#x27;Physicality&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>321360</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:0XtRGpFoouaUcXplTjRYcO</location>
+        <title>&#x27;Dust Storm&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>227853</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:3n9LHKNgfYHkFv9HBnuOgI</location>
+        <title>&#x27;Closure&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>428293</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:3reJMsnunmcMrb1vta7iPj</location>
+        <title>&#x27;Cherubs Cry&#x27;</title>
+        <creator>Clubroot</creator>
+        <album>II - MMX</album>
+        <duration>315960</duration>
+        <image>https://i.scdn.co/image/e3a724824560d0bcbef605869dd5eae265a62486</image>
+      </track>
+      <track>
+        <location>spotify:track:64kBadSt0BNfgHGAUJUbU0</location>
+        <title>No Doubt</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>162795</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:5OE6usCVwFKfc5GzCrxuEk</location>
+        <title>Light in The Dark</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>302493</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:1BTrSozGh1prNfv54B3Ndj</location>
+        <title>Ish Chat</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>153435</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:2EDblJ62rdiIgAzERle0BH</location>
+        <title>Sometimes We Lie...</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>385050</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:5ZYpYTT7HtWJXCySoujAZG</location>
+        <title>The Curb</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>356606</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:3yizl6gGxuQM64u9dBVTE9</location>
+        <title>Knuckle Waltz</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>184061</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:2xoXEO57FR2HrCearsQ82p</location>
+        <title>Away With Me</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>266665</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:0LYfLdqj2okguTiMLfr3Si</location>
+        <title>Fool&#x27;s Paradise</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>250411</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:60cwS96zSD9ktEIPXLEFyK</location>
+        <title>Buggin&#x27;</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>261943</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:04n3QabVAxzbND8vqBIZ8K</location>
+        <title>S.O.U.R.</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>116419</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:5OHYKFo6amGtxOVvHdAvU4</location>
+        <title>Memento</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>353791</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:2kFhARQRzCkgciCPqDoM3L</location>
+        <title>Shackles</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>304087</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:3ePstiZfu5HbWhcCs6ULeI</location>
+        <title>Shoestring</title>
+        <creator>SpectraSoul</creator>
+        <album>Delay No More</album>
+        <duration>199444</duration>
+        <image>https://i.scdn.co/image/4a1ce1848aba1e3618d1724ba9f7ab0f2ac5bf4c</image>
+      </track>
+      <track>
+        <location>spotify:track:1MIIsADv7y9fwqLlBovGwJ</location>
+        <title>Reflections</title>
+        <creator>B-complex</creator>
+        <album>Rolling With The Punches</album>
+        <duration>363666</duration>
+        <image>https://i.scdn.co/image/0888e8d2b32726beceb0001bb527ffc071164bfb</image>
+      </track>
+      <track>
+        <location>spotify:track:4yEZlbxgW1nuLkU2Oo2Yy4</location>
+        <title>Salad Is OK</title>
+        <creator>B-complex</creator>
+        <album>Salad Is OK</album>
+        <duration>347920</duration>
+        <image>https://i.scdn.co/image/dbbb0c09b1244f906b889bba34561165aa38819a</image>
+      </track>
+      <track>
+        <location>spotify:track:2x6TsFdwpvar0ItdATrEtZ</location>
+        <title>Ocean Deep</title>
+        <creator>B-complex</creator>
+        <album>Salad Is OK</album>
+        <duration>394004</duration>
+        <image>https://i.scdn.co/image/dbbb0c09b1244f906b889bba34561165aa38819a</image>
+      </track>
+      <track>
+        <location>spotify:track:4BPSwZAOVESfM4661GywCO</location>
+        <title>It&#x27;s A Funny World</title>
+        <creator>B-complex</creator>
+        <album>Salad Is OK</album>
+        <duration>372991</duration>
+        <image>https://i.scdn.co/image/dbbb0c09b1244f906b889bba34561165aa38819a</image>
+      </track>
+      <track>
+        <location>spotify:track:3Kl0kG1KOK3R3amzApWxVD</location>
+        <title>Prisma</title>
+        <creator>Netsky</creator>
+        <album>Prisma / Tomorrow&#x27;s Another Day</album>
+        <duration>360265</duration>
+        <image>https://i.scdn.co/image/71f686ead179d9fdbbf14972a474cc126e35b545</image>
+      </track>
+      <track>
+        <location>spotify:track:3ntmz2S2VuLSnAWxeigYT4</location>
+        <title>Memory Lane</title>
+        <creator>Netsky</creator>
+        <album>Sick Music 2 Sampler</album>
+        <duration>335505</duration>
+        <image>https://i.scdn.co/image/a3aa74a9e820d46a74df079e3e721b3f5fac1eb4</image>
+      </track>
+      <track>
+        <location>spotify:track:2TOOTZ95RmoRCjipo7olZH</location>
+        <title>Diffused - Original</title>
+        <creator>The Upbeats</creator>
+        <album>Diffused</album>
+        <duration>318171</duration>
+        <image>https://i.scdn.co/image/6a76a57744e34f7510512e2207afb0058749651c</image>
+      </track>
+      <track>
+        <location>spotify:track:7bLyz3WqUeJTE0gIetuEX4</location>
+        <title>Chroma Chords</title>
+        <creator>Alix Perez</creator>
+        <album>Chroma Chords</album>
+        <duration>262240</duration>
+        <image>https://i.scdn.co/image/bfa2db146d7710c6d91de18f976e82a025f2b9a3</image>
+      </track>
+      <track>
+        <location>spotify:track:7pXcZm9ZZoWlaPcttUiEn2</location>
+        <title>1984</title>
+        <creator>Alix Perez</creator>
+        <album>1984</album>
+        <duration>334306</duration>
+        <image>https://i.scdn.co/image/f37fd8f5cb33cf20e14f23e84d5c8a0536c2cca4</image>
+      </track>
+      <track>
+        <location>spotify:track:4BaNqfahtmLTK2QA4S1XAl</location>
+        <title>Fade Away</title>
+        <creator>Alix Perez</creator>
+        <album>1984</album>
+        <duration>339000</duration>
+        <image>https://i.scdn.co/image/f37fd8f5cb33cf20e14f23e84d5c8a0536c2cca4</image>
+      </track>
+      <track>
+        <location>spotify:track:1GYFTXbHwe064nNbU4Niz9</location>
+        <title>Contradictions</title>
+        <creator>Alix Perez</creator>
+        <album>1984</album>
+        <duration>347040</duration>
+        <image>https://i.scdn.co/image/f37fd8f5cb33cf20e14f23e84d5c8a0536c2cca4</image>
+      </track>
+      <track>
+        <location>spotify:track:3fWjtDGbMY7ryr8j8NP4Ts</location>
+        <title>State 808</title>
+        <creator>Alix Perez</creator>
+        <album>1984</album>
+        <duration>322840</duration>
+        <image>https://i.scdn.co/image/f37fd8f5cb33cf20e14f23e84d5c8a0536c2cca4</image>
+      </track>
+      <track>
+        <location>spotify:track:1YutVAWwucQytCkaM82PIN</location>
+        <title>Streamline</title>
+        <creator>Pendulum</creator>
+        <album>Hold Your Colour</album>
+        <duration>323346</duration>
+        <image>https://i.scdn.co/image/1411ecccb52afad2ba7a253b7c82468ba4d70304</image>
+      </track>
+      <track>
+        <location>spotify:track:3RB7hfbKipi3rtGCT5IGqq</location>
+        <title>Girl In The Fire</title>
+        <creator>Pendulum</creator>
+        <album>Hold Your Colour</album>
+        <duration>293520</duration>
+        <image>https://i.scdn.co/image/1411ecccb52afad2ba7a253b7c82468ba4d70304</image>
+      </track>
+      <track>
+        <location>spotify:track:2UibPiVJSyWz3qCHqrzSMo</location>
+        <title>Sounds Of Life (Ft. Jasmine Yee)</title>
+        <creator>Pendulum</creator>
+        <album>Hold Your Colour</album>
+        <duration>321600</duration>
+        <image>https://i.scdn.co/image/1411ecccb52afad2ba7a253b7c82468ba4d70304</image>
+      </track>
+      <track>
+        <location></location>
+        <title></title>
+        <creator></creator>
+        <album></album>
+        <duration></duration>
+        <image></image>
+      </track>
+      <track>
+        <location>spotify:track:7qbCY2WYtIKjcTLAOtqliw</location>
+        <title>Song For Lovers</title>
+        <creator>Bachelors of Science</creator>
+        <album>Science Fiction</album>
+        <duration>388000</duration>
+        <image>https://i.scdn.co/image/dd31bbad554581d1350d3d1bf6d706e5f0e0277e</image>
+      </track>
+      <track>
+        <location>spotify:track:5YMLp3LDDY0T5nRaLbLzOH</location>
+        <title>The Ice Dance</title>
+        <creator>Bachelors of Science</creator>
+        <album>LovEvolution</album>
+        <duration>318194</duration>
+        <image>https://i.scdn.co/image/f332f2db24b6d583b427712576e7114d0fbb9d46</image>
+      </track>
+  </trackList>
+</playlist>
