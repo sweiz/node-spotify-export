@@ -5,7 +5,7 @@ Description
 -----------
 Let's convert a Spotify playlist into another format! (currently only [XSPF](http://www.xspf.org/xspf-v1.html#rfc.section.4.1.1.2.2) for use with [Clementine](https://www.clementine-player.org/))
 
-Inspired by (and blatant rip-off off) ruby-powered [https://github.com/jlund/spotify-export](https://github.com/jlund/spotify-export)
+Inspired by (and blatant rip-off of) ruby-powered [https://github.com/jlund/spotify-export](https://github.com/jlund/spotify-export)
 
 
 1. Open Spotify and go to the playlist that you want to export
